@@ -1,0 +1,38 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Obsidian Acoustic Precision Palette (Dark)
+val ObsidianBg = Color(0xFF070C1A)
+val ObsidianSurface = Color(0xFF0E172E)
+val ObsidianSurfaceVariant = Color(0xFF172342)
+val ObsidianSurfaceHigh = Color(0xFF1E2D52)
+val ElectricCyan = Color(0xFF22D3EE)
+val ElectricCyanDark = Color(0xFF0891B2)
+val DeepCyanContainer = Color(0xFF0E3A4D)
+val SapphireIndigo = Color(0xFF818CF8)
+val DeepIndigoContainer = Color(0xFF283066)
+val AmberPulse = Color(0xFFFBBF24)
+val DeepAmberContainer = Color(0xFF452E0A)
+val EmeraldActive = Color(0xFF34D399)
+val DeepEmeraldContainer = Color(0xFF0B3B2E)
+val CoralAlert = Color(0xFFFB7185)
+val DeepCoralContainer = Color(0xFF4C1122)
+
+val TextPrimaryDark = Color(0xFFF1F5F9)
+val TextSecondaryDark = Color(0xFF94A3B8)
+val OutlineDark = Color(0xFF2A3A60)
+
+// Clean Daylight Palette (Light)
+val LightBg = Color(0xFFF4F7FB)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceVariant = Color(0xFFE8EEF8)
+val LightPrimary = Color(0xFF0284C7)
+val LightPrimaryContainer = Color(0xFFD0F0FD)
+val LightSecondary = Color(0xFF4F46E5)
+val LightSecondaryContainer = Color(0xFFE0E7FF)
+val LightTertiary = Color(0xFFD97706)
+val LightTertiaryContainer = Color(0xFFFEF3C7)
+val TextPrimaryLight = Color(0xFF0F172A)
+val TextSecondaryLight = Color(0xFF475569)
+val OutlineLight = Color(0xFFCBD5E1)

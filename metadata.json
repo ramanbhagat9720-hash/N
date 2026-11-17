@@ -1,0 +1,6 @@
+{
+  "name": "AI Call Assistant",
+  "description": "Personal AI phone assistant that greets you first on incoming calls, answers on your behalf with multilingual voice AI, and logs summaries and callbacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
